@@ -1,0 +1,95 @@
+{
+  "categories": [
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "Pizza Macaroni",
+      "price": "50.000",
+      "imageUrl": "./media/main-menu1.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "Burger beef special",
+      "price": "30.000",
+      "imageUrl": "./media/main-menu2.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "Burger vegetarian",
+      "price": "25.000",
+      "imageUrl": "./media/main-menu3.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "Burger vegetarian special",
+      "price": "30.000",
+      "imageUrl": "./media/main-menu4.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "coffee",
+      "title": "Cappucino Late",
+      "price": "15.000",
+      "imageUrl": "./media/coffee.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "coffee",
+      "title": "Cappucino Original",
+      "price": "10.000",
+      "imageUrl": "./media/coffee2.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "coffee",
+      "title": "Cappucino Ice",
+      "price": "17.000",
+      "imageUrl": "./media/coffee3.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "desserts",
+      "title": "Cake Special",
+      "price": "20.000",
+      "imageUrl": "./media/dessert1.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "desserts",
+      "title": "Pupcake Special",
+      "price": "20.000",
+      "imageUrl": "./media/dessert2.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "desserts",
+      "title": "Brownis",
+      "price": "15.000",
+      "imageUrl": "./media/dessert3.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "desserts",
+      "title": "Cup Cake",
+      "price": "15.000",
+      "imageUrl": "./media/dessert4.jpg"
+    }
+  ],
+  "places": [
+    {
+      "_id": "abc123",
+      "imageUrl": "./media/t1.jpg"
+    },
+    {
+      "_id": "abc123",
+      "imageUrl": "./media/t2.jpg"
+    },
+    {
+      "_id": "abc123",
+      "imageUrl": "./media/t3.jpg"
+    }
+  ]
+}
